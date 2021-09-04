@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+body {
+	padding-top: 0;
+  background-color: black;
+}
+
+h1,
+#ru_title {
+  color: white;
+	text-align: center;
+	font-size: 120px;
+	font-family: Helvetica, Verdana, Arial;
+}
+
+p,
+a,
+#ru_exp,
+#exp {
+  color: white;
+	text-align: center;
+	font-size: 20px;
+	font-family: Helvetica, Verdana, Arial;
+}
+
+img {
+	width: 60px;
+	height: 60px;
+  filter: invert(100%);
+}
